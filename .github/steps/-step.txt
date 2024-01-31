@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-4
-=======
-4
->>>>>>> 1d68113 (Update to 4 in STEP and README.md)
+5
