@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 4
-=======
-2
->>>>>>> 01d3011 (Update to 2 in STEP and README.md)
